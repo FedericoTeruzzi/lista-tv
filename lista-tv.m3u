@@ -75,7 +75,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-id="TV2000.va" tvg-name="TV2000" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv2000.png" group-title="Nazionali",TV2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
-#EXTINF:-1 tvg-chno="29" tvg-id="LA7d.it" tvg-name="La7 Cinema" group-title="Nazionali",La7 Cinema
+#EXTINF:-1 tvg-chno="29" tvg-id="LA7.CINEMA.it" tvg-name="La7 Cinema" group-title="Nazionali",La7 Cinema
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
 
 #EXTINF:-1 tvg-chno="30" tvg-id="La.5.it" tvg-name="La5" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la5.png" group-title="Mediaset",La5
@@ -159,7 +159,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forc
 #EXTINF:-1 tvg-chno="59" tvg-id="Motor.Trend.it" tvg-name="Discovery Turbo" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/motortrend.png" group-title="Warner Bros. Discovery",Discovery Turbo
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
 
-#EXTINF:-1 tvg-chno="60" tvg-id="Sportitalia.it" tvg-name="Sportitalia" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/sportitalia.png" group-title="Sport",Sportitalia
+#EXTINF:-1 tvg-chno="60" tvg-id="Sportitalia.HD.it" tvg-name="Sportitalia" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/sportitalia.png" group-title="Sport",Sportitalia
 https://distribution.sportitalialive.it/sportitalia/sihd_abr2/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="61" tvg-id="il61.it" tvg-name="iL61" tvg-logo="https://il61.it/wp-content/uploads/2025/05/IL-61-versione-NEGATIVA-uno_BLU-100-1024x576.png" group-title="Nazionali",iL61
@@ -168,25 +168,25 @@ https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
 #EXTINF:-1 tvg-chno="63" tvg-id="Radio24TV.it" tvg-name="Il Sole 24 Ore TV" tvg-logo="https://i.imgur.com/NTqrdWW.png" group-title="Nazionali",Il Sole 24 Ore TV
 https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
 
-#EXTINF:-1 tvg-chno="64" tvg-id="SuperTennis.it" tvg-name="SuperTennis" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/supertennis.png" group-title="Sport",SuperTennis
+#EXTINF:-1 tvg-chno="64" tvg-id="SuperTennis.HD.it" tvg-name="SuperTennis" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/supertennis.png" group-title="Sport",SuperTennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 
 #EXTINF:-1 tvg-chno="65" tvg-id="AlmaTV.it" tvg-name="Alma TV" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/almatv.png" group-title="Nazionali",Alma TV
 http://151.0.207.99:1935/AlmaTv/AlmaTv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="66" tvg-id="Radio105TV.it" tvg-name="Radio 105 TV" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radio105tv.png" group-title="Radio TV",Radio 105 TV
+#EXTINF:-1 tvg-chno="66" tvg-id="Radio.105.it" tvg-name="Radio 105 TV" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radio105tv.png" group-title="Radio TV",Radio 105 TV
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-chno="67" tvg-id="R101TV.it" tvg-name="R101 TV" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/r101tv.png" group-title="Radio TV",R101 TV
+#EXTINF:-1 tvg-chno="67" tvg-id="R101tv.it" tvg-name="R101 TV" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/r101tv.png" group-title="Radio TV",R101 TV
 https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-chno="68" tvg-id="BomChannel.it" tvg-name="BOM Channel" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/bomchannel.png" group-title="Nazionali",BOM Channel
 https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="69" tvg-id="DeejayTV.it" tvg-name="Deejay TV" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/deejaytv.png" group-title="Radio TV",Deejay TV
+#EXTINF:-1 tvg-chno="69" tvg-id="Deejay.TV.it" tvg-name="Deejay TV" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/deejaytv.png" group-title="Radio TV",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="70" tvg-id="RadioItaliaTV.it" tvg-name="Radio Italia TV" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radioitaliatv.png" group-title="Radio TV",Radio Italia TV
+#EXTINF:-1 tvg-chno="70" tvg-id="Radio.Italia.TV.HD.it" tvg-name="Radio Italia TV" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radioitaliatv.png" group-title="Radio TV",Radio Italia TV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 
 #EXTINF:-1 tvg-chno="77" tvg-id="CanaleItalia.it" tvg-name="Canale Italia" tvg-logo="https://i.imgur.com/QlwLRyh.png" group-title="Locali Lombardia",Canale Italia
@@ -232,16 +232,16 @@ https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-chno="158" tvg-id="KissKissTV.it" tvg-name="Radio Kiss Kiss TV" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiokisskisstv.png" group-title="Radio TV",Radio Kiss Kiss TV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="202" tvg-id="RaiRadio2Visual.it" tvg-name="Rai Radio 2 Visual" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rairadio2visual.png" group-title="Radio TV",Rai Radio 2 Visual
+#EXTINF:-1 tvg-chno="202" tvg-id="RaiRadio2.it" tvg-name="Rai Radio 2 Visual" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rairadio2visual.png" group-title="Radio TV",Rai Radio 2 Visual
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=raiplayappletv&.m3u8
 
 #EXTINF:-1 tvg-chno="233" tvg-id="RTL102.5News.it" tvg-name="RTL 102.5 News" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png" group-title="Radio TV",RTL 102.5 News
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 
-#EXTINF:-1 tvg-chno="257" tvg-id="VirginRadioTV.it" tvg-name="Virgin Radio TV" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/virginradiotv.png" group-title="Radio TV",Virgin Radio TV
+#EXTINF:-1 tvg-chno="257" tvg-id="Virgin.Radio.it" tvg-name="Virgin Radio TV" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/virginradiotv.png" group-title="Radio TV",Virgin Radio TV
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-chno="258" tvg-id="RadioFrecciaTV.it" tvg-name="RadioFreccia" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiofrecciatv.png" group-title="Radio TV",RadioFreccia
+#EXTINF:-1 tvg-chno="258" tvg-id="RADIOFRECCIA.HD.it" tvg-name="RadioFreccia" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiofrecciatv.png" group-title="Radio TV",RadioFreccia
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 
 #EXTINF:-1 tvg-chno="264" tvg-id="CusanoItaliaTV.it" tvg-name="Cusano Italia TV" tvg-logo="https://i.imgur.com/9F1sVjZ.png" group-title="Altri",Cusano Italia TV
@@ -262,13 +262,13 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/p
 #EXTINF:-1 tvg-chno="715" tvg-id="m2oTV.it" tvg-name="m2o TV" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiom2otv.png" group-title="Radio TV",m2o TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="772" tvg-id="RadioMonteCarloTV.it" tvg-name="Radio Monte Carlo TV" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiomontecarlotv.png" group-title="Radio TV",Radio Monte Carlo TV
+#EXTINF:-1 tvg-chno="772" tvg-id="RMC.it" tvg-name="Radio Monte Carlo TV" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiomontecarlotv.png" group-title="Radio TV",Radio Monte Carlo TV
 https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-chno="899" tvg-id="RadioTVSerieA.it" tvg-name="Radio TV Serie A" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiotvseriea.png" group-title="Radio TV",Radio TV Serie A
 https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index%2Em3u8
 
-#EXTINF:-1 tvg-chno="960" tvg-id="SportitaliaSolocalcio.it" tvg-name="Sportitalia Solocalcio" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Sport",Sportitalia Solocalcio
+#EXTINF:-1 tvg-chno="960" tvg-id="Solocalcio.it.it" tvg-name="Sportitalia Solocalcio" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Sport",Sportitalia Solocalcio
 https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="501" tvg-id="Rai1.it" tvg-name="Rai 1 (riserva)" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" group-title="Riserva",Rai 1 (riserva)
@@ -380,14 +380,14 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forc
 #EXTINF:-1 tvg-chno="558" tvg-id="RaiSport.it" tvg-name="Rai Sport (riserva)" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raisport+hd.png" group-title="Riserva",Rai Sport (riserva)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5&.m3u8
 
-#EXTINF:-1 tvg-chno="560" tvg-id="Sportitalia.it" tvg-name="Sportitalia (riserva)" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/sportitalia.png" group-title="Riserva",Sportitalia (riserva)
+#EXTINF:-1 tvg-chno="560" tvg-id="Sportitalia.HD.it" tvg-name="Sportitalia (riserva)" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/sportitalia.png" group-title="Riserva",Sportitalia (riserva)
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="566" tvg-id="Radio105TV.it" tvg-name="Radio 105 TV (riserva)" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radio105tv.png" group-title="Riserva",Radio 105 TV (riserva)
+#EXTINF:-1 tvg-chno="566" tvg-id="Radio.105.it" tvg-name="Radio 105 TV (riserva)" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radio105tv.png" group-title="Riserva",Radio 105 TV (riserva)
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-chno="567" tvg-id="R101TV.it" tvg-name="R101 TV (riserva)" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/r101tv.png" group-title="Riserva",R101 TV (riserva)
+#EXTINF:-1 tvg-chno="567" tvg-id="R101tv.it" tvg-name="R101 TV (riserva)" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/r101tv.png" group-title="Riserva",R101 TV (riserva)
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd
 
@@ -417,5 +417,5 @@ https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
 #EXTINF:-1 tvg-chno="657" tvg-id="RaiScuola.it" tvg-name="Rai Scuola (riserva 2)" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raiscuola.png" group-title="Riserva 2",Rai Scuola (riserva 2)
 https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
 
-#EXTINF:-1 tvg-chno="660" tvg-id="Sportitalia.it" tvg-name="Sportitalia (riserva 2)" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/sportitalia.png" group-title="Riserva 2",Sportitalia (riserva 2)
+#EXTINF:-1 tvg-chno="660" tvg-id="Sportitalia.HD.it" tvg-name="Sportitalia (riserva 2)" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/sportitalia.png" group-title="Riserva 2",Sportitalia (riserva 2)
 https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
